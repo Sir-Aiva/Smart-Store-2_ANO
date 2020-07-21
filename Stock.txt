@@ -1,0 +1,17 @@
+ID Produto: 0 Tipo: T-shirt Marca: FILA Cor: azul -> Stock disponivel: 7
+ID Produto: 1 Tipo: T-shirt Marca: Nike Cor: Branco -> Stock disponivel: 5
+ID Produto: 2 Tipo: T-shirt Marca: Nike Cor: Preto -> Stock disponivel: 6
+ID Produto: 3 Tipo: T-shirt Marca: Nike Cor: Vermelho -> Stock disponivel: 16
+ID Produto: 4 Tipo: Calções Marca: Nike Cor: Azuis -> Stock disponivel: 12
+ID Produto: 5 Tipo: Calções Marca: Adidas Cor: Roxo -> Stock disponivel: 11
+ID Produto: 6 Tipo: T-shirt Marca: Adidas Cor: Branco -> Stock disponivel: 11
+ID Produto: 7 Tipo: T-shirt Marca: Benfica Cor: Vermelho -> Stock disponivel: 10
+ID Produto: 8 Tipo: T-shirt Marca: Sporting Cor: Verde -> Stock disponivel: 13
+ID Produto: 9 Tipo: T-shirt Marca: Porto Cor: Azul -> Stock disponivel: 20
+ID Produto: 10 Tipo: T-shirt Marca: Braga Cor: Vermelho -> Stock disponivel: 8
+ID Produto: 11 Tipo: Meias Marca: Nike Cor: Branco -> Stock disponivel: 10
+ID Produto: 12 Tipo: Meias Marca: Adidas Cor: Preto -> Stock disponivel: 6
+ID Produto: 13 Tipo: Bebida Marca: RedBull Cor: Vermelho -> Stock disponivel: 16
+ID Produto: 14 Tipo: Bebida Marca: RedBull Cor: Azul -> Stock disponivel: 22
+ID Produto: 15 Tipo: Suplemento Marca: Whey Protein Prozis Cor: Branco -> Stock disponivel: 12
+ID Produto: 16 Tipo: T-shirt Marca: Quechua Cor: Azul -> Stock disponivel: 14
